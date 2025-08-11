@@ -22,17 +22,12 @@ Explica brevemente el propósito general:
 <img width="744" height="1039" alt="2" src="https://github.com/user-attachments/assets/ae0012e9-3872-4db3-899f-13a104733986" />
 <img width="980" height="490" alt="image" src="https://github.com/user-attachments/assets/cd21d31e-2c0b-461b-a5c5-e41a4c4c403c" />
 
+- Dirigido a estudiantes que recien están entrando al contexto de la teoria atómico, como medio para familiarizarse con la tabla periodica y los elementos.
 
-- A qué público está dirigido
-- Qué lo hace diferente o especial
+<img width="300" height="253" alt="image" src="https://github.com/user-attachments/assets/c0c0851b-8be2-411d-a80a-b2708b2f1cef" />
 
+- Nuestro Proyecto es la primera iniciativa de este tipo en la ciudad, que de manera didactica 
 
-
-
-## 🧪 Prototipo
-
-🔗 **[Ver prototipo funcional](https://tuprototipo.netlify.app)**  
-📁 **[Ver prototipo en Figma](https://www.figma.com/file/...)**
 
 ### 📸 Capturas
 
