@@ -1,6 +1,7 @@
-# 🚀 Nombre del Proyecto
+# 🚀 Proyecto Atomico RA
 
-<img width="1396" height="570" alt="image" src="https://github.com/user-attachments/assets/8d72411d-eabe-4318-8178-2a771a294515" />
+<img width="2500" height="1665" alt="image" src="https://github.com/user-attachments/assets/bb3609d8-14b5-4d49-b055-ff2c134defd9" />
+
 
 
 ![Versión](https://img.shields.io/badge/versión-1.0.5-blue)  
