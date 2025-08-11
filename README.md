@@ -1,6 +1,7 @@
 # 🚀 Proyecto Atomico RA
 
 <img width="2500" height="1665" alt="image" src="https://github.com/user-attachments/assets/bb3609d8-14b5-4d49-b055-ff2c134defd9" />
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/c9a7159f-189e-4e9b-9128-c46db2ba55e4" />
 
 
 
