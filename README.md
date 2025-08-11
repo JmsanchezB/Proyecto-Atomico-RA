@@ -20,6 +20,7 @@ Explica brevemente el propósito general:
 - Nuestro proyecto tiene como objetivo crear un espacio de aprendizaje y familiarización con los conceptos de: Atomo, Elemento, Tabla periodica y otros conceptos relacionados con la teoria atómica. Esto medianto un espacio de realidad Aumentada, en el cual el usuario pueda ver los átomos de cada elemento de la tabala periodica. Por ultimo es importante acotar que como medio de soporte se implementaron tarjetas para afianzar el aprendizaje y a su vez como medio para mostrar los modelos en pantalla.
 
 <img width="744" height="1039" alt="2" src="https://github.com/user-attachments/assets/ae0012e9-3872-4db3-899f-13a104733986" />
+<img width="1087" height="475" alt="image" src="https://github.com/user-attachments/assets/7989aad1-4e5c-4546-8dcc-6840b2fd798a" />
 
 - A qué público está dirigido
 - Qué lo hace diferente o especial
