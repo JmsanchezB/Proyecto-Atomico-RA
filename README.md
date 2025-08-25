@@ -9,7 +9,7 @@
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
-> Breve descripción del proyecto: ¿qué hace, para quién está hecho y por qué es importante?
+> Breve descripción del proyecto: El proyecto es una app de realidad aumenta que muestra en pantalla los modelos de los distintos elementos en su estado atómico, entregando breve información sobre el y permitiendo al estudiante ver como cambia la morfologia y cambios en la estructura atómica de los elementos.
 
 ---
 
@@ -31,38 +31,26 @@ Explica brevemente el propósito general:
 
 ### 📸 Capturas
 
-| Pantalla de Inicio | Vista de Usuario | Panel Admin |
-|--------------------|------------------|-------------|
-|(<img width="302" height="276" alt="image" src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" />
-) | ![Usuario](./assets/usuario.png) | ![Admin](./assets/admin.png) |
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/106d2905-df6e-4bbc-bfd6-25b4848ec657" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5f8461a3-d818-4187-9e90-f2c2aba1a948" />
+<img width="476" height="253" alt="image" src="https://github.com/user-attachments/assets/2cafdcac-ee93-40fa-948e-86784b059b20" />
+
 
 ---
 
 ## 🧰 Tecnologías Utilizadas
+REALIDAD AUMENTADA:-----------------------------------------------------
+A través de una licencia de Vuforia, se crea un espacio para el uso de AR
+UNITY:------------------------------------------------------------------
+Se usa la version 2023.f32 para desarrollar esta aplicación para dispositivos android
 
-**Frontend:**
-- React / Vue / HTML + CSS + JS  
-- Tailwind CSS / Bootstrap / Material UI
-
-**Backend:**
-- Node.js / Express / Django / Firebase
-
-**Base de datos:**
-- MongoDB / PostgreSQL / Firestore
-
-**Otras herramientas:**
-- Figma / Adobe XD (diseño)
-- Git / GitHub (control de versiones)
-- Netlify / Vercel / Heroku (despliegue)
-
----
 
 ## ⚙️ Instalación
 
 ### Requisitos previos
-
-- Node.js ≥ 18  
-- Git instalado  
-- Navegador moderno
+-Celular con buen procesador
+-Presencia fisica de las tarjetas
 
 ### Pasos
+Descargar las imagenes de las tarjetas y transportalas a un medio fisico
+Descargar el apk de la app
