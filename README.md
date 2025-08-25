@@ -40,8 +40,10 @@ Explica brevemente el propósito general:
 
 ## 🧰 Tecnologías Utilizadas
 REALIDAD AUMENTADA:-----------------------------------------------------
+
 A través de una licencia de Vuforia, se crea un espacio para el uso de AR
 UNITY:------------------------------------------------------------------
+
 Se usa la version 2023.f32 para desarrollar esta aplicación para dispositivos android
 
 
