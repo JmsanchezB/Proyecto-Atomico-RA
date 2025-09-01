@@ -56,3 +56,4 @@ Se usa la version 2023.f32 para desarrollar esta aplicación para dispositivos a
 ### Pasos
 Descargar las imagenes de las tarjetas y transportalas a un medio fisico
 Descargar el apk de la app
+Apk link: https://itceduco-my.sharepoint.com/:f:/g/personal/jmsanchezb2020_itc_edu_co/ElnTL5iqHtZCunpgBUiCRVEBMI7K_zLbTq7prH5kdXrLUw?e=sBTR8j
